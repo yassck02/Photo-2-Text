@@ -1,7 +1,6 @@
 # Photo-2-Text
 ===============
 A C++ tool for converting bitmap images into a string of ASCII characters
-===============
 
 |                                       |                                       |
 |                   :---:               |                   :---:               |
